@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "bdht",
+    "name": "BetterDrawHoveringText",
+    "description": "Fixed an issue where text was too high and not fully displayed",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "url": "https://space.bilibili.com/511178120",
+    "updateUrl": "assets/Better.png",
+    "authorList": ["Petty"],
+    "credits": "Sen",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
